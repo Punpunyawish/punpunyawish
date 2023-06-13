@@ -2,6 +2,7 @@
 
 ## About Me
 * A medical student of Chulalongkorn University.
+* Developer @IT Department - SMCU
 
 ## Languages
 I am working with
