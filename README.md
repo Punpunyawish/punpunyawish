@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there !! 👋
 
+## About Me
+* A medical student of Chulalongkorn University.
+
+## Languages
+I am working with
+* Javascript/ Typescript
+* Python
+
+## Contact Me!
+pun@docchula.com
 <!--
 **Punpunyawish/punpunyawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
