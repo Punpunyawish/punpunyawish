@@ -1,8 +1,9 @@
 ### Hi there !! 👋
 
 ## About Me
-* A medical student of Chulalongkorn University.
+* Medical student of Chulalongkorn University
 * Developer @IT Department - SMCU
+* Computational Neuroscience Student @CCCN Lab
 
 ## Languages
 I am working with
